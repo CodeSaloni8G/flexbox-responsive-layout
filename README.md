@@ -14,4 +14,4 @@ It includes a navigation bar and multiple cards aligned using flex properties.
 - CSS (Flexbox)
 - VS Code
 
-http://127.0.0.1:5500
+
