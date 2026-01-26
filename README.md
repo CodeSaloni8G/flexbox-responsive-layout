@@ -1,10 +1,11 @@
 # flexbox-responsive-layout
-## Description
+
+## About the Project
 This project demonstrates a responsive webpage layout using CSS Flexbox.
 It includes a navigation bar and multiple cards aligned using flex properties.
 
 ## Live Demo
-Live website: https://flexbox-responsive-layout.vercel.app/
+- Live website: https://flexbox-responsive-layout.vercel.app/
 
 ## Features
 - Responsive navigation bar
